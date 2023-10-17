@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DavidWitkowski
 - 👀 I’m interested in ... fishing 🐠
-- 🌱 I’m currently learning ... html, css, javascript, bootsrap
+- 🌱 I’m currently learning ... html, css, javascript, git
 - 📫 How to reach me ... dawidwitkowski08@gmail.com
 
 <!---
